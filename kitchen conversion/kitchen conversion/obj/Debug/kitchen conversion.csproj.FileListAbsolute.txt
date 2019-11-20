@@ -1,0 +1,7 @@
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\bin\Debug\kitchen conversion.exe.config
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\bin\Debug\kitchen conversion.exe
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\bin\Debug\kitchen conversion.pdb
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\obj\Debug\kitchen conversion.csprojResolveAssemblyReference.cache
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\obj\Debug\kitchen conversion.csproj.CoreCompileInputs.cache
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\obj\Debug\kitchen conversion.exe
+C:\Users\ddombek\Documents\kitchen conversion\kitchen conversion\obj\Debug\kitchen conversion.pdb
